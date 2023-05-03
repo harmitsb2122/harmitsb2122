@@ -7,7 +7,6 @@
     </div>
 </div>
 
-![matrix](https://user-images.githubusercontent.com/80470843/235942717-a54e19f6-cf60-477e-bb6b-1b2455d47361.svg)
 
 <!--
 **harmitsb2122/harmitsb2122** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
