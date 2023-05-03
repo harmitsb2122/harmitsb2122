@@ -1,4 +1,13 @@
-### Hi there 👋
+<div style="display: flex; justify-content: right;">
+    <div style="margin-right: 20px; width: 50%;">
+        <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harmitsb2122&layout=compact&theme=transparent&title_color=abd200&text_color=3fb950&hide_border=1&langs_count=15" />
+    </div>
+    <div style="margin-right: 20px; width: 50%;">
+        <img align="left" src="https://github-readme-stats.vercel.app/api?username=harmitsb2122&show_icons=true&count_private=true&hide_title=true&theme=transparent&title_color=abd200&text_color=3fb950&icon_color=abd200&hide_border=1&line_height=33" />
+    </div>
+</div>
+
+![matrix](https://user-images.githubusercontent.com/80470843/235942717-a54e19f6-cf60-477e-bb6b-1b2455d47361.svg)
 
 <!--
 **harmitsb2122/harmitsb2122** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
