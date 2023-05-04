@@ -1,9 +1,9 @@
 <div style="display: flex; justify-content: right;">
     <div style="margin-right: 20px; width: 50%;">
-        <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harmitsb2122&layout=compact&theme=transparent&title_color=abd200&text_color=3fb950&hide_border=1&langs_count=15" />
+        <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harmitsb2122&range=all_time&layout=compact&theme=transparent&title_color=abd200&text_color=3fb950&hide_border=1&langs_count=15" />
     </div>
     <div style="margin-right: 20px; width: 50%;">
-        <img align="left" src="https://github-readme-stats.vercel.app/api?username=harmitsb2122&show_icons=true&count_private=true&hide_title=true&theme=transparent&title_color=abd200&text_color=3fb950&icon_color=abd200&hide_border=1&line_height=33" />
+        <img align="left" src="https://github-readme-stats.vercel.app/api?username=harmitsb2122&show_icons=true&range=all_time&count_private=true&hide_title=true&theme=transparent&title_color=abd200&text_color=3fb950&icon_color=abd200&hide_border=1&line_height=33" />
     </div>
 </div>
 
